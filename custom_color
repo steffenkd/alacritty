@@ -1,0 +1,408 @@
+
+# general good combination for foreground and backgroundcolor:
+background = '#212121' # or '#2A2A2A' '#2F2F2F'
+foreground = '#b4b4b4'
+
+
+# zenburn, 
+
+
+# Colors (Pencil Dark) with lighter foreground and ligher green
+
+# Default Colors
+[colors.primary]
+background = '#2F2F2F'
+foreground = '#FFFFFF'
+
+# Normal colors
+[colors.normal]
+black   = '#212121'
+red     = '#c30771'
+green   = '#98e024'
+yellow  = '#a89c14'
+blue    = '#008ec4'
+magenta = '#523c79'
+cyan    = '#20a5ba'
+white   = '#e0e0e0'
+
+# Bright colors
+[colors.bright]
+black   = '#818181'
+red     = '#fb007a'
+green   = '#5fd7af'
+yellow  = '#f3e430'
+blue    = '#20bbfc'
+magenta = '#6855de'
+cyan    = '#4fb8cc'
+white   = '#f1f1f1'
+
+
+# Colors (Pencil Dark) with lighter foreground and ligher green
+
+# Default Colors
+[colors.primary]
+background = '#2F2F2F'
+foreground = '#FFFFFF'
+
+# Normal colors
+[colors.normal]
+black   = '#212121'
+red     = '#c30771'
+green   = '#98e024'
+yellow  = '#a89c14'
+blue    = '#008ec4'
+magenta = '#523c79'
+cyan    = '#20a5ba'
+white   = '#e0e0e0'
+
+# Bright colors
+[colors.bright]
+black   = '#818181'
+red     = '#fb007a'
+green   = '#5fd7af'
+yellow  = '#f3e430'
+blue    = '#20bbfc'
+magenta = '#6855de'
+cyan    = '#4fb8cc'
+white   = '#f1f1f1'
+
+
+# Colors (Pencil Dark) with lighter foreground and ligher green
+
+# Default Colors
+[colors.primary]
+background = '#2F2F2F'
+foreground = '#FFFFFF'
+
+# Normal colors
+[colors.normal]
+black   = '#212121'
+red     = '#c30771'
+green   = '#98e024'
+yellow  = '#a89c14'
+blue    = '#008ec4'
+magenta = '#523c79'
+cyan    = '#20a5ba'
+white   = '#e0e0e0'
+
+# Bright colors
+[colors.bright]
+black   = '#818181'
+red     = '#fb007a'
+green   = '#5fd7af'
+yellow  = '#f3e430'
+blue    = '#20bbfc'
+magenta = '#6855de'
+cyan    = '#4fb8cc'
+white   = '#f1f1f1'
+
+
+
+# Colors (Pencil Dark) with lighter foreground and ligher green
+
+# Default Colors
+[colors.primary]
+background = '#212121'
+foreground = '#FFFFFF'
+
+# Normal colors
+[colors.normal]
+black   = '#212121'
+red     = '#c30771'
+green   = '#98e024'
+yellow  = '#a89c14'
+blue    = '#008ec4'
+magenta = '#523c79'
+cyan    = '#20a5ba'
+white   = '#e0e0e0'
+
+# Bright colors
+[colors.bright]
+black   = '#818181'
+red     = '#fb007a'
+green   = '#5fd7af'
+yellow  = '#f3e430'
+blue    = '#20bbfc'
+magenta = '#6855de'
+cyan    = '#4fb8cc'
+white   = '#f1f1f1'
+
+
+
+
+
+
+
+# Colors (Solarized Dark) with darker background and brighter green normal color for better contrast
+
+# Default colors
+[colors.primary]
+background = '#212121'
+foreground = '#FFFFFF' #or try '#839496'
+
+# Normal colors
+[colors.normal]
+black   = '#073642'
+red     = '#dc322f'
+green   = '#98e024'
+yellow  = '#b58900'
+blue    = '#268bd2'
+magenta = '#d33682'
+cyan    = '#2aa198'
+white   = '#eee8d5'
+
+# Bright colors
+[colors.bright]
+black   = '#002b36'
+red     = '#cb4b16'
+green   = '#586e75'
+yellow  = '#657b83'
+blue    = '#839496'
+magenta = '#6c71c4'
+cyan    = '#93a1a1'
+white   = '#fdf6e3'
+
+
+
+
+# Colors (Horizon Dark) with lighter foregroud, lighter greenand darker cyan
+
+# Primary colors
+[colors.primary]
+background = '#1c1e26'
+foreground = '#FFFFFF'
+
+# Normal colors
+[colors.normal]
+black = '#16161c'
+red = '#e95678'
+green   = '#98e024'
+yellow = '#fab795'
+blue = '#26bbd9'
+magenta = '#ee64ac'
+cyan    = '#20a5ba'
+white = '#d5d8da'
+
+# Bright colors
+[colors.bright]
+black = '#5b5858'
+red = '#ec6a88'
+green = '#3fdaa4'
+yellow = '#fbc3a7'
+blue = '#3fc4de'
+magenta = '#f075b5'
+cyan = '#6be4e6'
+white = '#d5d8da'
+
+
+
+
+
+
+
+
+# Colors (PaperColor - Dark)
+
+# Default colors
+[colors.primary]
+background = '#1c1c1c'
+foreground = '#808080'
+
+[colors.cursor]
+text = '#1c1c1c'
+cursor = '#808080'
+
+# Normal colors
+[colors.normal]
+black   = '#1c1c1c'
+red     = '#af005f'
+green   = '#5faf00'
+yellow  = '#d7af5f'
+blue    = '#5fafd7'
+magenta = '#808080'
+cyan    = '#d7875f'
+white   = '#d0d0d0'
+
+# Bright colors
+[colors.bright]
+black   = '#585858'
+red     = '#5faf5f'
+green   = '#afd700'
+yellow  = '#af87d7'
+blue    = '#ffaf00'
+magenta = '#ffaf00'
+cyan    = '#00afaf'
+white   = '#5f8787'
+
+
+
+
+
+
+# Colors (Horizon Dark) with brighter foreground
+
+# Primary colors
+[colors.primary]
+background = '#1c1e26'
+foreground = '#FFFFFF'
+
+# Normal colors
+[colors.normal]
+black = '#16161c'
+red = '#e95678'
+green = '#29d398'
+yellow = '#fab795'
+blue = '#26bbd9'
+magenta = '#ee64ac'
+cyan = '#59e1e3'
+white = '#d5d8da'
+
+# Bright colors
+[colors.bright]
+black = '#5b5858'
+red = '#ec6a88'
+green = '#3fdaa4'
+yellow = '#fbc3a7'
+blue = '#3fc4de'
+magenta = '#f075b5'
+cyan = '#6be4e6'
+white = '#d5d8da'
+
+
+
+
+
+
+
+
+
+#monokai_charcoal with little bit brighter background color
+
+# Default colors
+[colors.primary]
+background = '#212121'
+foreground = '#FFFFFF'
+
+# Normal Colours
+[colors.normal]
+black   = '#1a1a1a'
+red     = '#f4005f'
+green   = '#98e024'
+yellow  = '#fa8419'
+blue    = '#9d65ff'
+magenta = '#f4005f'
+cyan    = '#58d1eb'
+white   = '#c4c5b5'
+
+# Bright Colours
+[colors.bright]
+black   = '#625e4c'
+red     = '#f4005f'
+green   = '#98e024'
+yellow  = '#e0d561'
+blue    = '#9d65ff'
+magenta = '#f4005f'
+cyan    = '#58d1eb'
+white   = '#f6f6ef'
+
+
+
+
+
+
+
+
+
+
+# Colors (Solarized Dark) with darker background
+
+# Default colors
+[colors.primary]
+background = '#212121'
+foreground = '#FFFFFF' #or try '#839496'
+
+# Normal colors
+[colors.normal]
+black   = '#073642'
+red     = '#dc322f'
+green   = '#859900'
+yellow  = '#b58900'
+blue    = '#268bd2'
+magenta = '#d33682'
+cyan    = '#2aa198'
+white   = '#eee8d5'
+
+# Bright colors
+[colors.bright]
+black   = '#002b36'
+red     = '#cb4b16'
+green   = '#586e75'
+yellow  = '#657b83'
+blue    = '#839496'
+magenta = '#6c71c4'
+cyan    = '#93a1a1'
+white   = '#fdf6e3'
+
+
+
+
+
+
+
+# Colors taerminal with lighter foreground and darker background
+
+# Default colors
+[colors.primary]
+background = '#212121'
+foreground = '#FFFFFF'
+
+[colors.cursor]
+background = '#f0f0f0'
+foreground = '#26282a'
+
+# Normal colors
+[colors.normal]
+black   = '#26282a'
+red     = '#ff8878'
+green   = '#b4fb73'
+yellow  = '#fffcb7'
+blue    = '#8bbce5'
+magenta = '#ffb2fe'
+cyan    = '#a2e1f8'
+white   = '#f1f1f1'
+
+# Bright colors
+[colors.bright]
+black   = '#6f6f6f'
+red     = '#fe978b'
+green   = '#d6fcba'
+yellow  = '#fffed5'
+blue    = '#c2e3ff'
+magenta = '#ffc6ff'
+cyan    = '#c0e9f8'
+white   = '#ffffff'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
